@@ -4,8 +4,7 @@ A practice repo following the [Front-End Web Development: The Big Nerd Ranch Gui
 ## Tools used
 The book recommends using specific tools (Google Chrome, Windows or MacOS, Atom, etc) to follow the guided coding practices more easily, but this repo was built and tested on alternative options. These are:
 
-* Solus (Linux operating system)
-* Mozilla Firefox
+* Linux based operating systems (Arch & Solus)
+* Mozilla Firefox and Google Chrome
 * Visual Studio Code (with plugins)
-* Latest git with Gnome Terminal
 * Node.js
